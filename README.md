@@ -48,9 +48,8 @@ plt.legend()
 plt.show()
 ```
 ## OUTPUT WAVEFORM
-![image](https://github.com/user-attachments/assets/73d3becb-8718-47e5-9b8f-9fe217a68ea0)
-![image](https://github.com/user-attachments/assets/dced7ca7-aadd-459a-bcd8-a1dca9a76517)
-![image](https://github.com/user-attachments/assets/6fcfa19a-f24e-4d1e-9bdc-87bf57f30e4e)
-
+![image](https://github.com/user-attachments/assets/b52d29e7-3bef-4601-a47c-647f89bdafbc)
+![image](https://github.com/user-attachments/assets/5766c843-95b6-4a79-931b-8d62a9b5b1c4)
+![image](https://github.com/user-attachments/assets/9fcba587-97e4-4f64-9bac-42d767d5870d)
 ## RESULT
 The result of ideal sampling is a discrete-time signal that retains all the information of the original continuous-time signal is obtained and output is verified.
